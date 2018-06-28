@@ -7,4 +7,4 @@ comments.
 Installation
 ------------
 1. Install TamperMonkey https://tampermonkey.net/
-1. Add https://github.com/SignificantOverflow/devrant-lolblocker/raw/master/lolblock.user.js to userscripts
+1. Add https://github.com/SignificantOverflow/devrant-lolblocker/raw/master/lolblocker.user.js to userscripts
